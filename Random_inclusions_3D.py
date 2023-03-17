@@ -229,4 +229,3 @@ for q in range (1,Max_iterations):
 
     
 #Property of Not Real Engineering 
-# Author: Shank S. Kulkarni
